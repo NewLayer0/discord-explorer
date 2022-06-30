@@ -1,0 +1,22 @@
+{
+  "name": "discord-explorer",
+  "version": "2.0.3",
+  "description": "Explore servidores do discord de uma forma automatizada",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NewLayer0/discord-explorer.git"
+  },
+  "author": "Eduardo Gabriel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NewLayer0/discord-explorer/issues"
+  },
+  "homepage": "https://github.com/NewLayer0/discord-explorer#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
